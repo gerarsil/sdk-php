@@ -1,7 +1,7 @@
 <?php
 
 /**
- * MercadoPago Integration Library
+ * MercadoPago Integration LibrarY
  * Access MercadoPago for payments integration
  * 
  * @author hcasatti
